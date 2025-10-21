@@ -1,0 +1,8 @@
+streamlit
+torch
+transformers
+datasets
+tqdm
+huggingface-hub
+# Install the custom RetNet code directly from the GitHub repository
+git+https://github.com/Jamie-Stirling/RetNet.git
