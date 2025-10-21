@@ -4,7 +4,3 @@ transformers==4.42.3
 datasets==2.20.0
 huggingface-hub==0.23.4
 
-# Install the custom RetNet library directly from the GitHub repository.
-# This assumes the 'git' command and necessary build tools are available 
-# in the deployment environment, which is standard for Spaces.
-git+https://github.com/Jamie-Stirling/RetNet.git
