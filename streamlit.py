@@ -6,6 +6,9 @@ from transformers import AutoTokenizer
 from huggingface_hub import hf_hub_download
 import os
 
+git clone https://github.com/Jamie-Stirling/RetNet.git
+
+
 # NOTE: For this to work in deployment, you MUST copy the 'retnet.py' 
 # file from the cloned repository's 'src' directory into your project root.
 try:
